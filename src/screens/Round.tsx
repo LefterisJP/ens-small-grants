@@ -240,7 +240,7 @@ export const Round = () => {
   return (
     <>
       <BackButton to="/" title={titleContent} />
-      {showHelper && <Helper type="info">Proposal submission recieved!</Helper>}
+      {showHelper && <Helper type="info">Proposal submission received!</Helper>}
       <Container>
         <HeadingContainer>
           <Subtitle>
